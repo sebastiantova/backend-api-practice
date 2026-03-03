@@ -1,5 +1,11 @@
 Task Management API (FastAPI + SQLite)
 
+## API Documentation Preview
+
+Interactive documentation generated automatically by FastAPI using Swagger UI.
+
+![Swagger UI](images/swagger.png)
+
 Backend REST API for managing tasks. Built with FastAPI, Pydantic validation, and SQLite persistence using SQLAlchemy ORM.
 
 Tech Stack
